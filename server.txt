@@ -1,1 +1,1 @@
-http://69.14.20.253:8080/sign-in.jsp
+http://69.14.20.253/sign-in.jsp
